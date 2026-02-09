@@ -12,6 +12,7 @@ I found this article interesting because it shows how artificial intelligence an
 
 One aspect I found especially interesting was how the system uses multi-view video analysis. By combining footage from different camera angles, the model can better understand player interactions and fouls. What stood out to me most was the gap between the system’s potential and its current performance. According to the poster, the model achieved around 53% testing accuracy, which shows that while the approach is promising, it is not yet reliable enough for real-world deployment. 
 
+
 ## PR Comment
 
 The supervised model’s performance is fundamentally constrained by limited data, which is an issue can only be solved by a significant commitment and time. It is therocially possible, but realistically not very feasible. It'll require astronmically more data to improve. I don't find it likely that any organization is willing to pour that much time or resources into data collection. Maybe it is better to consider unsupervised solutions, but of course it'll have its own problems when it comes to meaningful experimentation during the training stage, especially in a sport with many variables.
